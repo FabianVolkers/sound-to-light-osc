@@ -20,7 +20,11 @@ Required modules
 - scipy
 - python-osc
 
-On MacOS, portaudio must be installed (via e.g. `brew install portaudio`)
+### Portaudio
+Portaudio must be install on the systemt
+
+MacOS: `brew install portaudio`
+Ubuntu/Debian: `apt install libasound-dev`
 
 Usage
 -----
