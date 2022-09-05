@@ -20,6 +20,8 @@ Required modules
 - scipy
 - python-osc
 
+On MacOS, portaudio must be installed (via e.g. `brew install portaudio`)
+
 Usage
 -----
 
